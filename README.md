@@ -1,6 +1,6 @@
 # Data-Visualisation-with-Python
 
-To run dashboard application on IDE
+To run the dashboard exercises and assignment on IDE
 
 Firstly, install pandas and dash using the following command
 python3 -m pip install pandas dash
